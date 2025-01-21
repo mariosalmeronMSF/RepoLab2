@@ -1,5 +1,5 @@
-red lion
-lion yellow
+red purple lion
+lion blue
 tiger
 leopard
 turtle
