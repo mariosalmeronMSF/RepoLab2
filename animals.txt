@@ -1,4 +1,5 @@
 red lion
+lion blue
 tiger
 leopard
 turtle
